@@ -1,7 +1,7 @@
 import math
 
-weight = int(input("Ingrese Peso en [kg] = "))
-height = int(input("Ingrese Altura en [cm] = ")) 
+weight = float(input("Ingrese Peso en [kg] = "))
+height = float(input("Ingrese Altura en [cm] = ")) 
 
 height_m = height/100.0
 
